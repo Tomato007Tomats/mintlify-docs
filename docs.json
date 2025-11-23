@@ -24,6 +24,17 @@
             ]
           }
         ]
+      },
+      {
+        "tab": "Product Knowledge",
+        "groups": [
+          {
+            "group": "Métricas e KPIs",
+            "pages": [
+              "product-knowledge/metricas-engenharia"
+            ]
+          }
+        ]
       }
     ]
   }
