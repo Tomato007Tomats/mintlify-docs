@@ -12,12 +12,19 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "navigation": [
-    {
-      "group": "Home",
-      "pages": [
-        "index"
-      ]
-    }
-  ]
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Home",
+        "groups": [
+          {
+            "group": "Getting started",
+            "pages": [
+              "index"
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
